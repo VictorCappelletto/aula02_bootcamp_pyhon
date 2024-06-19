@@ -3,4 +3,4 @@
 
 condicao_1=bool(input("insira um novo nome "))
 cond_final= not condicao_1 
-print("Condição de acesso do cliente: ",cond_final)
+print("Condição de cadastro do cliente: ",cond_final)
